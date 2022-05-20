@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/sourovsarker4" target="blank"><img src="https://img.shields.io/twitter/follow/sourovsarker4?logo=twitter&style=for-the-badge" alt="sourovsarker4" /></a> </p>
 
-- 🔭 I’m currently working on **OpenCV**
+- 🔭 I’m currently working on ***OpenCV***
 
-- 👯 I’m looking to collaborate on **Google**
+- 👯 I’m looking to collaborate on ***Google***
 
-- 💬 Ask me about **React, JavaScript, Python, Nodejs, Java, C, HTML, CSS, Bootstrap**
+- 💬 Ask me about ***React, JavaScript, Python, Nodejs, Java, C, HTML, CSS, Bootstrap***
 
-- 📫 How to reach me **sourovsarker005@gmail.com**
+- 📫 How to reach me ***sourovsarker005@gmail.com**
 
-- ⚡ Fun fact **I think I am going travel the hole world**
+- ⚡ Fun fact ***I think I am going travel the hole world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
