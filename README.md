@@ -15,7 +15,7 @@
 
 - 📫 How to reach me ***sourovsarker005@gmail.com**
 
-- ⚡ Fun fact ***I think I am going travel the hole world**
+- ⚡ Fun fact ***I think I am going travel the hole world***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
