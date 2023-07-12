@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SOUROV</h1>
-<h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack backend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourovsarkertec12&label=Profile%20views&color=0e75b6&style=flat" alt="sourovsarkertec12" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **OpenCV**
 
-- 🌱 I’m currently learning **React for Frontend**
+- 🌱 I’m currently learning **Django for backend**
 
 - 👯 I’m looking to collaborate on **Google**
 
