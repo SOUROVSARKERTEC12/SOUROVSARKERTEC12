@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm SOUROV</h1>
 <h3 align="center">A passionate Full Stack backend developer from Bangladesh</h3>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SOUROVSARKERTEC12&theme=aura_dark)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourovsarkertec12&label=Profile%20views&color=0e75b6&style=flat" alt="sourovsarkertec12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourovsarkertec12" alt="sourovsarkertec12" /></a> </p>
