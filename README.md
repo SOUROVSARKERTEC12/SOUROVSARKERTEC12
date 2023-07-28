@@ -49,7 +49,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.freepik.com/free-icon/snakes_318-368381.jpg" alt="sqlite" width="40" height="40"/> </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png" alt="sqlite" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourovsarkertec12&show_icons=true&locale=en&layout=compact" alt="sourovsarkertec12" /></p>
