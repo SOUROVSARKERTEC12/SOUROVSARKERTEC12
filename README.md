@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SOUROV</h1>
-<h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack (Frontend) developer from Bangladesh</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SOUROVSARKERTEC12&theme=aura_dark)
 
