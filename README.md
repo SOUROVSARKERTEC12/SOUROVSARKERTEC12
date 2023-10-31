@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SOUROV</h1>
-<h3 align="center">A passionate Full Stack (Frontend) developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Web developer from Bangladesh</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SOUROVSARKERTEC12&theme=aura_dark)
 
@@ -8,10 +8,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourovsarkertec12" alt="sourovsarkertec12" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sourovsarker4" target="blank"><img src="https://img.shields.io/twitter/follow/sourovsarker4?logo=twitter&style=for-the-badge" alt="sourovsarker4" /></a> </p>
-
-- 🔭 I’m currently working on **OpenCV**
-
-- 🌱 I’m currently learning **React Material UI V5**
 
 - 👯 I’m looking to collaborate on **Google**
 
